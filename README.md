@@ -6,7 +6,7 @@ An extensive datapack focused on expanding many different aspects of the Create 
 
 ## Compatibility
 
-| Mod             | Progress      |
+| **Mod** | **Progress** |
 |-----------------|---------------|
 | Blockus         | W.I.P         |
 | Farmers Delight | Complete      |
