@@ -16,5 +16,13 @@
             "count": 1
         }
     ],
-    "processingTime": 250
+    "processingTime": 250,
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "byg"
+            ]
+        }
+    ]
 }

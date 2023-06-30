@@ -22,5 +22,13 @@
             "item": "farmersdelight:squid_ink_pasta"
         }
     ],
-    "heatRequirement": "heated"
+    "heatRequirement": "heated",
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farmersdelight"
+            ]
+        }
+    ]
 }

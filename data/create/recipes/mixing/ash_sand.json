@@ -12,5 +12,14 @@
         {
             "item": "chipped:ash_sand"
         }
+    ],
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "chipped",
+                "supplementaries"
+            ]
+        }
     ]
 }

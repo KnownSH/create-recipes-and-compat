@@ -14,5 +14,13 @@
             "item": "minecraft:bone_meal"
         }
     ],
-    "processingTime": 100
+    "processingTime": 100,
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farmersdelight"
+            ]
+        }
+    ]
 }

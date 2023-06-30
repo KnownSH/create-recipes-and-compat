@@ -7,5 +7,13 @@
     ],
     "result": {
         "item": "blockus:limestone"
-    }
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "blockus"
+            ]
+        }
+    ]
 }

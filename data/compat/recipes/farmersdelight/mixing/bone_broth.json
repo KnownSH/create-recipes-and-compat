@@ -16,5 +16,13 @@
             "item": "farmersdelight:bone_broth"
         }
     ],
-    "heatRequirement": "heated"
+    "heatRequirement": "heated",
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "farmersdelight"
+            ]
+        }
+    ]
 }
