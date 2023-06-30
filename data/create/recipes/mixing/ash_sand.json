@@ -1,0 +1,16 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "minecraft:sand"
+        },
+        {
+            "item": "supplementaries:ash"
+        }
+    ],
+    "results": [
+        {
+            "item": "chipped:ash_sand"
+        }
+    ]
+}

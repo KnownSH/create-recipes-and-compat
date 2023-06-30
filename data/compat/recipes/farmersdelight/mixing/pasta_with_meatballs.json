@@ -1,0 +1,23 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "farmersdelight:raw_pasta"
+        },
+        {
+            "item": "farmersdelight:minced_beef"
+        },
+        {
+            "item": "farmersdelight:tomato_sauce"
+        },
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    "results": [
+        {
+            "item": "farmersdelight:pasta_with_meatballs"
+        }
+    ],
+    "heatRequirement": "heated"
+}

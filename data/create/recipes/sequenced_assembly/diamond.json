@@ -1,0 +1,87 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+        "tag": "c:coal"
+    },
+    "transitionalItem": {
+        "item": "minecraft:coal"
+    },
+    "sequence": [
+        {
+            "type": "create:pressing",
+            "ingredients": [
+                {
+                    "item": "minecraft:coal"
+                }
+            ],
+            "results": [
+                {
+                    "item": "minecraft:coal"
+                }
+            ]
+        },
+        {
+            "type": "create:pressing",
+            "ingredients": [
+                {
+                    "item": "minecraft:coal"
+                }
+            ],
+            "results": [
+                {
+                    "item": "minecraft:coal"
+                }
+            ]
+        },
+        {
+            "type": "create:pressing",
+            "ingredients": [
+                {
+                    "item": "minecraft:coal"
+                }
+            ],
+            "results": [
+                {
+                    "item": "minecraft:coal"
+                }
+            ]
+        },
+        {
+            "type": "create:pressing",
+            "ingredients": [
+                {
+                    "item": "minecraft:coal"
+                }
+            ],
+            "results": [
+                {
+                    "item": "minecraft:coal"
+                }
+            ]
+        },
+        {
+            "type": "create:pressing",
+            "ingredients": [
+                {
+                    "item": "minecraft:coal"
+                }
+            ],
+            "results": [
+                {
+                    "item": "minecraft:coal"
+                }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:diamond",
+            "chance": 0.1
+        },
+        {
+            "item": "",
+            "chance": 10
+        }
+    ],
+    "loops": 5
+}

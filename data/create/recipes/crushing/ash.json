@@ -1,0 +1,16 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "tag": "minecraft:sand"
+        }
+    ],
+    "results": [
+        {
+            "item": "supplementaries:ash",
+            "chance": 0.75,
+            "count": 2
+        }
+    ],
+    "processingTime": 250
+}

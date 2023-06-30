@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "minecraft:soul_sand"
+        },
+        {
+            "tag": "c:cobblestone"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:netherrack",
+            "count": 2
+        }
+    ],
+    "heatRequirement": "heated"
+}

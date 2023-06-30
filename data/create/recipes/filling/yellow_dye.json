@@ -1,0 +1,22 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+        {
+            "item": "create:zinc_nugget"
+        },
+        {
+            "fluid": "create:potion",
+            "nbt": {
+                "Bottle": "REGULAR",
+                "Potion": "minecraft:swiftness"
+            },
+            "amount": 2025
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:yellow_dye",
+            "count": 4
+        }
+    ]
+}

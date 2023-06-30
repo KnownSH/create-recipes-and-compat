@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:brown_mushroom",
+        "farmersdelight:minced_beef",
+        "#c:raw_pork",
+        "#c:raw_beef",
+        "#c:raw_chicken"
+    ]
+}

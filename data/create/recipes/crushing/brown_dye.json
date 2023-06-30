@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:scoria"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:brown_dye",
+            "count": 4
+        }
+    ],
+    "processingTime": 350
+}

@@ -1,0 +1,22 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+        {
+            "item": "minecraft:iron_nugget"
+        },
+        {
+            "fluid": "create:potion",
+            "nbt": {
+                "Bottle": "REGULAR",
+                "Potion": "minecraft:swiftness"
+            },
+            "amount": 2025
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:blue_dye",
+            "count": 4
+        }
+    ]
+}

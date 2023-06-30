@@ -1,0 +1,23 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "farmersdelight:onion"
+        },
+        {
+            "tag": "c:raw_fishes"
+        },
+        {
+            "item": "farmersdelight:tomato_sauce"
+        },
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    "results": [
+        {
+            "item": "farmersdelight:fish_stew"
+        }
+    ],
+    "heatRequirement": "heated"
+}

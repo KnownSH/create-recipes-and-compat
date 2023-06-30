@@ -1,0 +1,19 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "item": "chipped:ash_sand"
+        },
+        {
+            "fluid": "minecraft:lava",
+            "nbt": {},
+            "amount": 8100
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:tuff"
+        }
+    ],
+    "heatRequirement": "heated"
+}

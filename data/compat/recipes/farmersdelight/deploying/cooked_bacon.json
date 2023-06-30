@@ -1,0 +1,18 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+        {
+            "item": "minecraft:cooked_porkchop"
+        },
+        {
+            "tag": "c:tools/knives"
+        }
+    ],
+    "results": [
+        {
+            "item": "farmersdelight:cooked_bacon",
+            "count": 2
+        }
+    ],
+    "keepHeldItem": true
+}

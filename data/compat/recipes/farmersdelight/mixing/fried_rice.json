@@ -1,0 +1,26 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "farmersdelight:onion"
+        },
+        {
+            "item": "farmersdelight:rice"
+        },
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    "results": [
+        {
+            "item": "farmersdelight:fried_rice"
+        }
+    ],
+    "heatRequirement": "heated"
+}

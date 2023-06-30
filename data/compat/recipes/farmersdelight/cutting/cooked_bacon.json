@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "item": "minecraft:cooked_porkchop"
+        }
+    ],
+    "results": [
+        {
+            "item": "farmersdelight:cooked_bacon",
+            "count": 2
+        }
+    ],
+    "processingTime": 50
+}

@@ -1,0 +1,24 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "tag": "c:dough"
+        },
+        {
+            "tag": "c:crops/cabbage"
+        },
+        {
+            "tag": "c:dumpling_fillings"
+        },
+        {
+            "item": "farmersdelight:onion"
+        }
+    ],
+    "results": [
+        {
+            "item": "farmersdelight:dumplings",
+            "count": 2
+        }
+    ],
+    "heatRequirement": "heated"
+}

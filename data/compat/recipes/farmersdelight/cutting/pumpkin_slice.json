@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "item": "minecraft:pumpkin"
+        }
+    ],
+    "results": [
+        {
+            "item": "farmersdelight:pumpkin_slice",
+            "count": 4
+        }
+    ],
+    "processingTime": 50
+}

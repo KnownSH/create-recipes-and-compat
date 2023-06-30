@@ -1,0 +1,26 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "farmersdelight:pumpkin_slice"
+        },
+        {
+            "tag": "c:crops/cabbage"
+        },
+        {
+            "tag": "c:raw_pork"
+        },
+        {
+            "tag": "c:milk"
+        },
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    "results": [
+        {
+            "item": "farmersdelight:pumpkin_soup"
+        }
+    ],
+    "heatRequirement": "heated"
+}

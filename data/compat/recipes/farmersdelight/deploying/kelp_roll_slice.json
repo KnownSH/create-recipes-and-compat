@@ -1,0 +1,18 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+        {
+            "item": "farmersdelight:kelp_roll"
+        },
+        {
+            "tag": "c:tools/knives"
+        }
+    ],
+    "results": [
+        {
+            "item": "farmersdelight:kelp_roll_slice",
+            "count": 3
+        }
+    ],
+    "keepHeldItem": true
+}

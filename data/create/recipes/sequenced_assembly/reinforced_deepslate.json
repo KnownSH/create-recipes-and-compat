@@ -1,0 +1,122 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+        "item": "minecraft:deepslate"
+    },
+    "transitionalItem": {
+        "item": "minecraft:infested_deepslate"
+    },
+    "sequence": [
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "minecraft:infested_deepslate"
+                },
+                {
+                    "item": "create:powdered_obsidian"
+                }
+            ],
+            "results": [
+                {
+                    "item": "minecraft:infested_deepslate"
+                }
+            ]
+        },
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "minecraft:infested_deepslate"
+                },
+                {
+                    "item": "byg:brim_powder"
+                }
+            ],
+            "results": [
+                {
+                    "item": "minecraft:infested_deepslate"
+                }
+            ]
+        },
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "minecraft:infested_deepslate"
+                },
+                {
+                    "item": "minecraft:flint_and_steel"
+                }
+            ],
+            "results": [
+                {
+                    "item": "minecraft:infested_deepslate"
+                }
+            ]
+        },
+        {
+            "type": "create:filling",
+            "ingredients": [
+                {
+                    "item": "minecraft:infested_deepslate"
+                },
+                {
+                    "fluid": "minecraft:lava",
+                    "nbt": {},
+                    "amount": 81000
+                }
+            ],
+            "results": [
+                {
+                    "item": "minecraft:infested_deepslate"
+                }
+            ]
+        },
+        {
+            "type": "create:filling",
+            "ingredients": [
+                {
+                    "item": "minecraft:infested_deepslate"
+                },
+                {
+                    "fluid": "create:potion",
+                    "nbt": {
+                        "Bottle": "REGULAR",
+                        "Potion": "minecraft:night_vision"
+                    },
+                    "amount": 81000
+                }
+            ],
+            "results": [
+                {
+                    "item": "minecraft:infested_deepslate"
+                }
+            ]
+        },
+        {
+            "type": "create:pressing",
+            "ingredients": [
+                {
+                    "item": "minecraft:infested_deepslate"
+                }
+            ],
+            "results": [
+                {
+                    "item": "minecraft:infested_deepslate"
+                }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:reinforced_deepslate",
+            "chance": 1
+        },
+        {
+            "item": "minecraft:deepslate",
+            "chance": 20
+        }
+    ],
+    "loops": 5
+}

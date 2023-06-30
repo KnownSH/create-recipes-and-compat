@@ -1,0 +1,23 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "minecraft:potato"
+        },
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "tag": "c:raw_beef"
+        },
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    "results": [
+        {
+            "item": "farmersdelight:beef_stew"
+        }
+    ],
+    "heatRequirement": "heated"
+}

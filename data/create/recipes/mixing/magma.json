@@ -1,0 +1,14 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "tag": "c:cobblestone"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:magma_block"
+        }
+    ],
+    "heatRequirement": "heated"
+}

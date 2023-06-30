@@ -1,0 +1,16 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "item": "minecraft:diorite"
+        },
+        {
+            "item": "minecraft:bone_meal"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:calcite"
+        }
+    ]
+}

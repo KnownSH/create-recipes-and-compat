@@ -1,0 +1,26 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "item": "minecraft:glow_berries"
+        },
+        {
+            "tag": "c:milk"
+        },
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:glass_bottle"
+        }
+    ],
+    "results": [
+        {
+            "item": "farmersdelight:glow_berry_custard"
+        }
+    ],
+    "heatRequirement": "heated"
+}

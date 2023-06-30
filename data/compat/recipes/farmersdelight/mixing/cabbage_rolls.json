@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "tag": "c:crops/cabbage"
+        },
+        {
+            "tag": "farmersdelight:cabbage_roll_ingredients"
+        }
+    ],
+    "results": [
+        {
+            "item": "farmersdelight:cabbage_rolls"
+        }
+    ],
+    "heatRequirement": "heated"
+}

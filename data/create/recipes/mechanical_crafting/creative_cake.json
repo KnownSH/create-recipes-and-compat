@@ -1,0 +1,40 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "GGEEEGG",
+        "GDDDDDG",
+        "EDCCCDE",
+        "EDBFBDE",
+        "EDAAADE",
+        "GDDDDDG",
+        "GGEEEGG"
+    ],
+    "key": {
+        "A": {
+            "item": "create:blaze_cake_base"
+        },
+        "B": {
+            "item": "create:blaze_cake"
+        },
+        "C": {
+            "item": "ad_astra:cryo_fuel_bucket"
+        },
+        "D": {
+            "item": "minecraft:reinforced_deepslate"
+        },
+        "E": {
+            "item": "blockus:blaze_lantern"
+        },
+        "F": {
+            "item": "blockus:nether_stars_block"
+        },
+        "G": {
+            "item": "minecraft:netherite_block"
+        }
+    },
+    "result": {
+        "item": "create:creative_blaze_cake",
+        "count": 1
+    },
+    "acceptMirrored": false
+}

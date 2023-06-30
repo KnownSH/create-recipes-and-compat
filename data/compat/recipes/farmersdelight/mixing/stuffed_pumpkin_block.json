@@ -1,0 +1,32 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "tag": "c:berries"
+        },
+        {
+            "tag": "c:vegetables"
+        },
+        {
+            "item": "minecraft:brown_mushroom"
+        },
+        {
+            "item": "farmersdelight:onion"
+        },
+        {
+            "item": "farmersdelight:rice"
+        },
+        {
+            "item": "minecraft:potato"
+        },
+        {
+            "item": "minecraft:pumpkin"
+        }
+    ],
+    "results": [
+        {
+            "item": "farmersdelight:stuffed_pumpkin_block"
+        }
+    ],
+    "heatRequirement": "heated"
+}

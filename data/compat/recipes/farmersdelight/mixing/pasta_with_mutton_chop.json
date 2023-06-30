@@ -1,0 +1,23 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "farmersdelight:raw_pasta"
+        },
+        {
+            "tag": "c:raw_mutton"
+        },
+        {
+            "item": "farmersdelight:tomato_sauce"
+        },
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    "results": [
+        {
+            "item": "farmersdelight:pasta_with_mutton_chop"
+        }
+    ],
+    "heatRequirement": "heated"
+}

@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "item": "farmersdelight:kelp_roll"
+        }
+    ],
+    "results": [
+        {
+            "item": "farmersdelight:kelp_roll_slice",
+            "count": 3
+        }
+    ],
+    "processingTime": 50
+}
