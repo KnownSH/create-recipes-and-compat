@@ -1,0 +1,23 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "item": "minecraft:mud_bricks"
+        }
+    ],
+    "results": [
+        {
+            "item": "blockus:mud_brick_pillar",
+            "count": 1
+        }
+    ],
+    "processingTime": 50,
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "blockus"
+            ]
+        }
+    ]
+}
