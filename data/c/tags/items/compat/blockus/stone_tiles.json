@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "blockus:stone_tiles",
+        "#c:compat/blockus/stone_bricks"
+    ]
+}
