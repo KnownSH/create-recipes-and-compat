@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#c:compat/blockus/marble_bricks",
+        "blockus:small_marble_bricks"
+    ]
+}
