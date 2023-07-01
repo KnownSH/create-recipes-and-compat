@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "blockus:tuff_bricks",
+        "#c:compat/blockus/tuff"
+    ]
+}

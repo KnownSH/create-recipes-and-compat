@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "blockus:dripstone_bricks",
+        "#c:compat/blockus/dripstone"
+    ]
+}
