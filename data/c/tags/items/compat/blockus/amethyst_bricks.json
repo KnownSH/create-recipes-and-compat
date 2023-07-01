@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#c:compat/blockus/amethyst",
+        "blockus:amethyst_bricks"
+    ]
+}

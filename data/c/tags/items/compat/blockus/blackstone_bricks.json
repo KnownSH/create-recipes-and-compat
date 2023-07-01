@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#c:compat/blockus/blackstone",
+        "blockus:polished_blackstone_tiles"
+    ]
+}
