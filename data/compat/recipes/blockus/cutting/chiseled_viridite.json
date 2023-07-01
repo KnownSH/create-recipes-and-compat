@@ -1,0 +1,23 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "c:compat/blockus/viridite_bricks"
+        }
+    ],
+    "results": [
+        {
+            "item": "blockus:chiseled_viridite",
+            "count": 1
+        }
+    ],
+    "processingTime": 50,
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "blockus"
+            ]
+        }
+    ]
+    }

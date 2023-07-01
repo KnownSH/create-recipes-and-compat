@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#c:compat/blockus/viridite_bricks",
+        "blockus:small_viridite_bricks"
+    ]
+}

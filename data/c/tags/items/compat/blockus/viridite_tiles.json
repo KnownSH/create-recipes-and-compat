@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#c:compat/blockus/viridite_bricks",
+        "blockus:viridite_tiles"
+    ]
+}
