@@ -1,0 +1,23 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "item": "blockus:water_bricks"
+        }
+    ],
+    "results": [
+        {
+            "item": "blockus:water_brick_slab",
+            "count": 2
+        }
+    ],
+    "processingTime": 50,
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "blockus"
+            ]
+        }
+    ]
+    }
