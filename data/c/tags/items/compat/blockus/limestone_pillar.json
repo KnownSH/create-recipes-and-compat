@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#c:compat/blockus/limestone_bricks",
+        "blockus:limestone_pillar"
+    ]
+}
