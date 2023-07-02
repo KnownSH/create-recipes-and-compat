@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#c:compat/blockus/quartz",
+        "blockus:quartz_tiles"
+    ]
+}

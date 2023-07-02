@@ -1,0 +1,23 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "c:compat/blockus/quartz_bricks"
+        }
+    ],
+    "results": [
+        {
+            "item": "blockus:quartz_tile_slab",
+            "count": 2
+        }
+    ],
+    "processingTime": 50,
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "blockus"
+            ]
+        }
+    ]
+}

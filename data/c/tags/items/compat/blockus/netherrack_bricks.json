@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#c:compat/blockus/netherrack",
+        "blockus:netherrack_bricks"
+    ]
+}

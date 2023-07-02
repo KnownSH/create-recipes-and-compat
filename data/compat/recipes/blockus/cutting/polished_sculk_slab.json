@@ -1,23 +1,23 @@
 {
-"type": "create:cutting",
-"ingredients": [
-    {
-        "tag": "c:compat/blockus/sculk"
-    }
-],
-"results": [
-    {
-        "item": "blockus:polished_sculk_slab",
-        "count": 2
-    }
-],
-"processingTime": 50,
-"fabric:load_conditions": [
-    {
-        "condition": "fabric:all_mods_loaded",
-        "values": [
-            "blockus"
-        ]
-    }
-]
+    "type": "create:cutting",
+    "ingredients": [
+        {
+            "tag": "c:compat/blockus/sculk"
+        }
+    ],
+    "results": [
+        {
+            "item": "blockus:polished_sculk_slab",
+            "count": 2
+        }
+    ],
+    "processingTime": 50,
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "blockus"
+            ]
+        }
+    ]
 }
